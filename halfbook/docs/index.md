@@ -66,7 +66,7 @@ You know, I'm okay with books ending on a cliffhanger; just I want to know this 
 
 And if the author is still writing and I will have to wait 5 years for the next book, I want to know.
 
-If I still like the series, that's fine. I loved the Cytonic Series by Brandon Sanderson, and am willing to wait a few years, even though I know the later books end on cliffhangers (the first book is sorta complete).
+If I love the author, I might still buy the book, but the decision should be mine.
 
 Also, some books like Hyperion have won a lot of awards, so it migth be worth buying the whole series. Nowadays, Hyperion is sold in a omnibus edition that has both the books in one unit. I only found out about this because I read a lot of 1 star reviews complaining about this, and recommending people buy the omnibus edition.
 
@@ -77,4 +77,53 @@ To see the list, [go here](/list)
 
 # Contributing
 
-If you want to add more books to this list, either email me at @@ Or <what else?>
+If you want to add more books to this list, [go here](/contributing)
+
+# What others are saying
+
+I wondered if I was just alone in thinking this way, and googled for what people thought about cliffhanger endings. These are some of the results from the 1st page:
+
+From the Mighty Author:
+
+    To keep people happy, the most important thing to keep in mind as you plan out the book is to make sure you
+    bring some kind of resolution to the plot before the end of the current book.
+
+    Each book in a series should have a very clear story arc with the beginning, middle and end. Your cliffhanger
+    should work towards the much longer over-arcing plotline that goes through all the different books.
+
+
+    If you do not carefully execute this, people will think you have done it just to divide it into two or more
+    books to push them to buy another and make a bit more money.
+
+[https://www.mightyauthor.com/end-with-a-cliffhanger-love-to-hate/](https://www.mightyauthor.com/end-with-a-cliffhanger-love-to-hate/)
+
+From Kris Reviews:
+
+    it’s not a good idea for Book One to end with a major cliffhanger.    If you have a new series, and the
+    intent is to have multiple books, you need to hook readers with great world-building, deep characters,
+    and an engaging plot.
+
+    When you end the first book in a series on a cliffhanger, you’re basically telling the reader that it
+    doesn’t matter what they think of your first book, if they want to find out what happens, they need to
+    buy the next book.  Now I don’t know about you, but I don’t like being told what to do.  I should be
+    able to make up my own mind on whether or not I want to continue reading the series after book one.
+
+
+
+    A book that just totally stops, with no resolution of anything, is not a good reading experience.
+    It makes you feel like you are missing a piece of the puzzle.
+    If I’m paying my money for a book, I want to be able to read a complete story.
+
+[https://www.krisreviews.com/blog/what-makes-a-good-cliffhanger](https://www.krisreviews.com/blog/what-makes-a-good-cliffhanger)
+
+
+From Writing Stack Exchange:
+
+    First of all, not giving a satisfying ending to a story is almost always very, very irritating to readers.
+    Leaving things unfinished after a large period of buildup and hype is a huge mental itch in people's brains
+    and almost always a letdown for your reader, and this is especially the case with books, where the whole story
+    is expected to be contained within the book. Spending a whole book building up to the climax and confrontation
+    with the villain, only to yank it away from your reader without any satisfaction, would definitely anger your reader,
+    ho expected a conclusion to all the things they've been building up their anticipation for.
+
+[https://writing.stackexchange.com/questions/52589/should-i-end-my-book-on-a-major-cliffhanger](https://writing.stackexchange.com/questions/52589/should-i-end-my-book-on-a-major-cliffhanger)

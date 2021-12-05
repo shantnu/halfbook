@@ -2,3 +2,4 @@ site_name: Half Books -- Shitty Books That Have No Ending
 nav:
     - Home: index.md
     - List: list.md
+    - Contributing: contributing.md
