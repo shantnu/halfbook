@@ -80,11 +80,11 @@
             
             <li class="nav-item" data-level="1"><a href="#contributing" class="nav-link">Contributing</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#if-you-are-technical-minded" class="nav-link">If you are technical minded</a>
+            <li class="nav-item" data-level="2"><a href="#email-me" class="nav-link">Email me</a>
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#email-me" class="nav-link">Email me</a>
+            <li class="nav-item" data-level="2"><a href="#if-you-are-technical-minded" class="nav-link">If you are technical minded</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -96,12 +96,20 @@
                     <div class="col-md-9" role="main">
 
 <h1 id="contributing">Contributing</h1>
+<h2 id="email-me">Email me</h2>
+<p>Include the name of the book, author, and why you think it's not a complete book.</p>
+<p>Email at: shantnu (at)  shantnu tiwari  ( dot ) com</p>
 <h2 id="if-you-are-technical-minded">If you are technical minded</h2>
 <p>Send me a PR request at <a href="https://github.com/shantnu/halfbook">https://github.com/shantnu/halfbook</a></p>
 <p>The file to change is halfbook/docs/list.md</p>
-<h2 id="email-me">Email me</h2>
-<p>Include the name of the book, author, and why you think it's not a complete book.</p>
-<p>Email at: shantnu (at)  shantnu tiwari  ( dot ) com</p></div>
+<p>To test it locally:</p>
+<pre><code>pip install mkdocs
+
+cd halfbook
+mkdocs serve  # To test your changes locally
+mkdocs build  # Make sure to do this before committing!
+</code></pre>
+<p>mkdocs build is the key thing, as it builds the html files, so dont forget it</p></div>
             </div>
         </div>
 
